@@ -1,0 +1,13 @@
+/* 公共样式 */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.mg-rg-10{
+  margin-right: 10px;
+}
+.mg-top-10{
+  margin-top: 10px;
+}

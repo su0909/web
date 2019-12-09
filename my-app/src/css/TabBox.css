@@ -1,0 +1,19 @@
+.TabBox {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 30px;
+  box-sizing: border-box;
+  border: 1px solid;
+}
+.TabBox section {
+  display: flex;
+  justify-content: space-around;
+  box-sizing: border-box;
+  margin-top: 30px;
+}
+.TabBox section .sec-box {
+  width: 45%;
+  padding: 30px;
+  box-sizing: border-box;
+  border: 1px solid;
+}

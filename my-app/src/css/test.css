@@ -1,0 +1,50 @@
+.CommodityListDetails {
+  padding-top: 30px;
+}
+.CommodityListDetails h3 {
+  width: 1200px;
+  margin: 0 auto;
+}
+.CommodityListDetails .CommodityListDetails-box {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 30px;
+  box-sizing: border-box;
+  border: 1px solid;
+}
+.CommodityListDetails .CommodityListDetails-box .form-box {
+  display: flex;
+  align-items: center;
+}
+.CommodityListDetails .CommodityListDetails-box .form-box .form-li {
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+.CommodityListDetails .CommodityListDetails-box .form-box .form-li .form-text {
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+  padding-right: 10px;
+}
+.CommodityListDetails .CommodityListDetails-box .table-list {
+  display: flex;
+  margin: 10px 0;
+  align-items: center;
+  justify-content: space-between;
+}
+.CommodityListDetails .CommodityListDetails-box .table-list .btns {
+  padding: 10px;
+  box-sizing: border-box;
+}
+.CommodityListDetails .CommodityListDetails-box .table-list .btns button {
+  display: block;
+}
+.CommodityListDetails .CommodityListDetails-box .table-list .table-box {
+  width: 45%;
+}
+.CommodityListDetails .CommodityListDetails-box .sumbit-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
